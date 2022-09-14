@@ -8,7 +8,7 @@ Consumir WebService SEFAZ usando HttpClient em C#
 Este projeto mostra como consumir WebServices da SEFAZ para emissão de NF-e (http://www.nfe.fazenda.gov.br/portal/webservices.aspx) usando HttpClient em C# com certificado digital.
 
 ## Referências
-https://docs.microsoft.com/pt-br/dotnet/api/system.net.http.httpclient?view=net-6.0
+https://docs.microsoft.com/pt-br/dotnet/api/system.net.http.httpclient?view=net-6.0/
 
 ## Licença
 GPL-3.0 license
